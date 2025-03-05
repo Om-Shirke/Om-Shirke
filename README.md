@@ -28,7 +28,7 @@ My background is in <strong>Statistics (BSc)</strong> and <strong>Data Science (
   </a>
 </p>
 
----
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Om-Shirke&icon=0&color=0" alt="Profile Views">
 </p>
