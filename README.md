@@ -19,15 +19,15 @@ My background is in <strong>Statistics (BSc)</strong> and <strong>Data Science (
 </p>
 
 ## 🌐 Connect with Me:
-<p align="left">
+<p align="left" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/om-shirke">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;
   <a href="mailto:omshirke0520@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 
 
 
