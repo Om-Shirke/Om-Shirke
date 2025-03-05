@@ -1,18 +1,8 @@
-<h1>Hi 👋, I'm Om Shirke</h1>
+<h1 align="center">Hi 👋, I'm Om Shirke</h1>
 
 ## 💫 About Me:
 <p>Welcome to my GitHub! I'm interested in <strong>data science, data analysis, machine learning, and statistical modeling</strong>. 
 My background is in <strong>Statistics (BSc)</strong> and <strong>Data Science (Executive PG from IIIT Bangalore & MS from Liverpool John Moores University, UK)</strong>.</p>
-
-## 🌐 Socials:
-<p>
-  <a href="https://linkedin.com/in/om-shirke">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:omshirke0520@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ## 💻 Tech Stack:
 <p>
@@ -27,5 +17,21 @@ My background is in <strong>Statistics (BSc)</strong> and <strong>Data Science (
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 </p>
+
+## 🌐 Connect with Me:
+<p>
+  <a href="https://www.linkedin.com/in/om-shirke">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:omshirke0520@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Om-Shirke&icon=0&color=0" alt="Profile Views">
+</p>
+
 
 
