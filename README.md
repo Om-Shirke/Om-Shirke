@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Shirke</h1>
+<h1>Hi 👋, I'm Om Shirke</h1>
 
 ## 💫 About Me:
 <p>Welcome to my GitHub! I'm interested in <strong>data science, data analysis, machine learning, and statistical modeling</strong>. 
