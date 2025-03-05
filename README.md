@@ -28,21 +28,4 @@ My background is in <strong>Statistics (BSc)</strong> and <strong>Data Science (
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 </p>
 
-## 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Om-Shirke&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Om-Shirke&theme=dark&hide_border=false" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Shirke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Om-Shirke&icon=0&color=0" alt="Profile Views">
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
