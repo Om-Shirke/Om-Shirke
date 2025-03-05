@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Shirke</h1>
-Welcome to my GitHub! I'm interested in **data science, data analysis, machine learning, and statistical modeling**. My background is in **Statistics (BSc)** and **Data Science (Executive PG from IIIT Bangalore & MS from Liverpool John Moores University, UK)**.
+Welcome to my GitHub! I'm interested in <strong>data science, data analysis, machine learning, and statistical modeling<strong/>. My background is in **Statistics (BSc)** and **Data Science (Executive PG from IIIT Bangalore & MS from Liverpool John Moores University, UK)**.
 
 h3 align="left">Connect with me:</h3>
 <p align="left">
