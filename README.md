@@ -1,8 +1,19 @@
 <h1>Hi 👋, I'm Om Shirke</h1>
 
-## 💫 About Me:
-<p>Welcome to my GitHub! I'm interested in <strong>data science, data analysis, machine learning, and statistical modeling</strong>. 
-My background is in <strong>Statistics (BSc)</strong> and <strong>Data Science (Executive PG from IIIT Bangalore & MS from Liverpool John Moores University, UK)</strong>.</p>
+<h2>💫 About Me:</h2>
+<ul>
+  <li>🎯 <strong>Data Science & Machine Learning Enthusiast</strong></li>
+  <li>📊 Background in <strong>Statistics (BSc) & Data Science</strong></li>
+  <li>🎓 Education:  
+    <ul>
+      <li>Executive PG in Data Science - <strong>IIIT Bangalore</strong></li>
+      <li>MS in Data Science - <strong>Liverpool John Moores University, UK</strong></li>
+    </ul>
+  </li>
+  <li>📈 Passionate about <strong>analyzing data, building models, and solving problems</strong></li>
+</ul>
+
+
 
 ## 💻 Tech Stack:
 <p>
